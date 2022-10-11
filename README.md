@@ -1,7 +1,7 @@
 # Terceiro Trimestre 
 
 ## Identificação
-Nome: Nicolas Yuji Tamashiro  Nr.19
+Nome: Kauan Gustavo  Nr.31
 
 ## Assuntos
 HTML, CSS e JavaScript
