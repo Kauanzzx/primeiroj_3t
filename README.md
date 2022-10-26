@@ -1,7 +1,7 @@
-# Terceiro Trimestre 
+# Terceiro Trimestre
 
 ## Identificação
-Nome: Kauan Gustavo  Nr.31
+Nome: Jesus   Nr. 50
 
 ## Assuntos
 HTML, CSS e JavaScript
