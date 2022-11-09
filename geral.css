@@ -1,11 +1,16 @@
 .calculadora {
     background: rgb(160, 144, 144);
-    width: 190px;
+    width: 250px;
     padding: 7px;
     border-radius: 10px;
     box-shadow: 5px 5px rebeccapurple;
     text-align: center;
 }
+.calcF{
+    display: none;
+
+}
+
 .calculadora input{
   border-radius: 5px;
   border: none;
@@ -16,7 +21,6 @@
 .calculadora input:focus{
    background: purple;
    color: white;
-
 
 }
 .spTotal {
@@ -38,4 +42,12 @@
     color: white;
     cursor: pointer;
 
+}
+#calcFIn:checked + .calculadora .calcF {
+   display: block;
+
+} 
+#btnCalc{
+
+    
 }
